@@ -1,0 +1,35 @@
+{
+    "description": "http://www.checkmytorrentip.com/", 
+    "bt:libs": [
+        {
+            "url": "http://staging.apps.bittorrent.com/pkgs/apps-sdk.pkg", 
+            "name": "apps-sdk"
+        }, 
+        {
+            "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.js", 
+            "name": "jquery-ui"
+        }, 
+        {
+            "url": "http://staging.apps.bittorrent.com/pkgs/widgets.pkg", 
+            "name": "widgets"
+        }, 
+        {
+            "url": "http://jquery-loadmask.googlecode.com/svn/trunk/src/jquery.loadmask.js", 
+            "name": "jquery.loadmask"
+        },
+		{
+			"url": "http://rss-reader-on-gears.googlecode.com/svn-history/r2/trunk/scripts/jquery.jfeed.js",
+			"name": "jfeed"
+		}
+    ], 
+    "bt:publisher": "Steven Viola", 
+    "author": "Steven Viola <steve@stevenviola.com>", 
+    "site": "http://www.checkmytorrentip.com/", 
+    "bt:update_url": "https://github.com/downloads/stevenviola/CheckMyTorrentIP/CheckMyTorrentIP.btapp", 
+    "version": "0.1",  
+    "keywords": [
+        "http://www.checkmytorrentip.com/"
+    ], 
+    "bt:release_date": "11/20/2010", 
+    "name": "CheckMyTorrentIP"
+}
