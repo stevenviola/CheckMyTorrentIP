@@ -6,7 +6,7 @@
             "name": "apps-sdk"
         }, 
         {
-            "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.js", 
+            "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js", 
             "name": "jquery-ui"
         }, 
         {
@@ -16,11 +16,7 @@
         {
             "url": "http://jquery-loadmask.googlecode.com/svn/trunk/src/jquery.loadmask.js", 
             "name": "jquery.loadmask"
-        },
-		{
-			"url": "http://rss-reader-on-gears.googlecode.com/svn-history/r2/trunk/scripts/jquery.jfeed.js",
-			"name": "jfeed"
-		}
+        }
     ], 
     "bt:publisher": "Steven Viola", 
     "author": "Steven Viola <steve@stevenviola.com>", 
